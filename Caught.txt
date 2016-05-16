@@ -1,0 +1,7 @@
+Total butterflies caught: 
+  
+Birdwing Butterflies: 0
+Monarch Butterflies: 0
+Swallowtail Butterflies: 0
+Zebra Butterflies: 0
+Dragonflies...?: 0
